@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharper", "sharper\sharper.csproj", "{75E07C3A-0EDF-4EFA-8DAD-8517088AA8C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E07C3A-0EDF-4EFA-8DAD-8517088AA8C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E07C3A-0EDF-4EFA-8DAD-8517088AA8C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E07C3A-0EDF-4EFA-8DAD-8517088AA8C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E07C3A-0EDF-4EFA-8DAD-8517088AA8C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50219580-C912-45C7-933B-CB5ACD9C29C1}
+	EndGlobalSection
+EndGlobal
